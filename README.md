@@ -1,4 +1,4 @@
-# 📊 AdventureWorks Sales Dashboard Analysis
+# 📊 AdventureWorks Sales Dashboard Analysis (Excel)
 
 This project provides a detailed analysis of the Sales Dashboard visualized from AdventureWorks data, focusing on sales trends, category performance, and regional contributions.
 
